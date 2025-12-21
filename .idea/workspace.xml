@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf48ce7d-4af4-4752-8935-6129163a50e6" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../java-mid1-eunju" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Genre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mood.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResultPrinter.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "C",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/2-2/javaStudy_pro"
   }
