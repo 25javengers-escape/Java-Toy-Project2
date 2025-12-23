@@ -20,8 +20,14 @@ public class Question {
 
     public void printQuestion() {
         System.out.println("\nQ" + number + ". " + text);
-        for (Map.Entry<Character, String> entry : options.entrySet()) {
-            System.out.println(entry.getKey() + ". " + entry.getValue());
+
+        // 항상 a -> b -> c -> d 순서로 출력
+        char[] order = {'a', 'b', 'c', 'd'};
+        for (char key : order) {
+            String value = options.get(key);
+            if (value != null) {
+                System.out.println(key + ". " + value);
+            }
         }
     }
 
