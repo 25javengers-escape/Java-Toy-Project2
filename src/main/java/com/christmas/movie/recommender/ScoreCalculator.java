@@ -1,4 +1,4 @@
-package main.java.com.cristmas.movie.recommender;
+package main.java.com.christmas.movie.recommender;
 
 public class ScoreCalculator {
 
