@@ -3,7 +3,7 @@ package com.christmas.movie.survey;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Answer {
+public clAnswer {
 
     private Map<Integer, Character> answers = new HashMap<>();
     private Map<String, Integer> genreScores = new HashMap<>();
