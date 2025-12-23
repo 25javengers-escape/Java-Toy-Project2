@@ -208,6 +208,7 @@ public class Survey {
         ));
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     public Answer getAnswer() {
         return answer;
@@ -215,4 +216,6 @@ public class Survey {
 
 =======
 >>>>>>> c5376105d07a9f36f1b445fd0d3e6d7fad43bf31
+=======
+>>>>>>> origin/main
 }
