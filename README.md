@@ -92,28 +92,31 @@
 
 
 ## 📂 프로젝트 구조
+
+```
 src/main/java/com/christmas/movie
 ├─ Main.java
 │
 ├─ movie
-│ ├─ Genre.java
-│ ├─ Mood.java
-│ ├─ Movie.java
-│ ├─ MovieRepository.java
-│ └─ ResultPrinter.java
+│  ├─ Genre.java
+│  ├─ Mood.java
+│  ├─ Movie.java
+│  ├─ MovieRepository.java
+│  └─ ResultPrinter.java
 │
 ├─ recommender
-│ ├─ MovieRecommender.java
-│ ├─ RecommendationRule.java
-│ ├─ ScoreCalculator.java
-│ ├─ TopOneGenreRule.java
-│ └─ UserProfile.java
+│  ├─ MovieRecommender.java
+│  ├─ RecommendationRule.java
+│  ├─ ScoreCalculator.java
+│  ├─ TopOneGenreRule.java
+│  └─ UserProfile.java
 │
 └─ survey
-├─ Answer.java
-├─ InputHandler.java
-├─ Question.java
-└─ Survey.java
+   ├─ Answer.java
+   ├─ InputHandler.java
+   ├─ Question.java
+   └─ Survey.java
+```
 
 
 
